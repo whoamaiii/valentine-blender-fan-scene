@@ -1,0 +1,189 @@
+{
+  "created_utc": "2026-09-05T15:33:54.020853+00:00",
+  "status": "PASS",
+  "scene_file": "Valentine_Fan_Recreation.blend",
+  "scene_sha256": "cbd4a9227cd2ebe830556c1419fe8b61cf07d99c41c191d5c350c20d847e0d0a",
+  "scene_bytes": 76077733,
+  "build": {
+    "blender": "5.1.2",
+    "building_count": 18,
+    "objects": 483,
+    "mesh_objects": 452,
+    "materials": 47,
+    "mesh_triangles_before_modifiers": 2201790,
+    "packed_images": 49,
+    "render_device": "GPU",
+    "devices": [
+      {
+        "name": "Apple M5",
+        "type": "CPU",
+        "enabled": false
+      },
+      {
+        "name": "Apple M5 (GPU - 10 cores)",
+        "type": "METAL",
+        "enabled": true
+      }
+    ],
+    "arthur_source_sha256": "b80486c25c27c21789a188c1e0e544e8c709b8dba42b8aacc48312c6efe5c005",
+    "arthur_pose": [
+      {
+        "bone": "bone0154_SKEL_L_UpperArm",
+        "intended_direction": [
+          0.21455247700214386,
+          -0.053638119250535965,
+          -0.975238561630249
+        ]
+      },
+      {
+        "bone": "bone0280_SKEL_R_UpperArm",
+        "intended_direction": [
+          -0.21455247700214386,
+          -0.053638119250535965,
+          -0.975238561630249
+        ]
+      }
+    ],
+    "build_seconds": 6.9,
+    "reference_fidelity": "Reference-led landmark facades; inferred dimensions, back walls, peripheral layout and prop placement."
+  },
+  "checks": {
+    "scene_reopened": true,
+    "required_collections": true,
+    "camera_markers": 5,
+    "packed_images": 49,
+    "source_arthur_unchanged": true,
+    "texture_source_checksums": 12,
+    "full_png_decodes": 5,
+    "final_stills_visually_inspected": 5,
+    "foreground_blender_loaded": true
+  },
+  "renders": [
+    {
+      "file": "renders/01_Smithfields_Main_Street.png",
+      "pixels": [
+        2560,
+        1600
+      ],
+      "sha256": "07864fad1d53feca8325e942f9cd275c854659a5ea53e2209eb3c56c1a4fb457",
+      "bytes": 6122450,
+      "luminance_stddev": 70.64,
+      "decoded": "PASS",
+      "visual_review": "inspected"
+    },
+    {
+      "file": "renders/02_Along_Main_Street.png",
+      "pixels": [
+        2560,
+        1600
+      ],
+      "sha256": "1614c0a67dd2e4b1faca9e97992087af79f277a69c725162a73c93d5bfb77cad",
+      "bytes": 5946269,
+      "luminance_stddev": 71.41,
+      "decoded": "PASS",
+      "visual_review": "inspected"
+    },
+    {
+      "file": "renders/03_Saints_Hotel_and_Bank.png",
+      "pixels": [
+        2560,
+        1600
+      ],
+      "sha256": "f221520a8181169dc44adb3d5dded900d504f57a936f4b09213158bf345bba83",
+      "bytes": 5750352,
+      "luminance_stddev": 86.76,
+      "decoded": "PASS",
+      "visual_review": "inspected"
+    },
+    {
+      "file": "renders/04_Town_Overview.png",
+      "pixels": [
+        2560,
+        1600
+      ],
+      "sha256": "f16112536028ab237f05f621f3fef88cab86fd519aba22bc36d24200955b6025",
+      "bytes": 7434752,
+      "luminance_stddev": 28.39,
+      "decoded": "PASS",
+      "visual_review": "inspected"
+    },
+    {
+      "file": "renders/05_Arthur_at_Smithfields.png",
+      "pixels": [
+        2560,
+        1600
+      ],
+      "sha256": "1873065d1e0fe381436762b8d8f33c5cebb8d32b5f250dd13f952080bba31b60",
+      "bytes": 6310535,
+      "luminance_stddev": 64.79,
+      "decoded": "PASS",
+      "visual_review": "inspected"
+    }
+  ],
+  "files": [
+    {
+      "file": "Valentine_Fan_Recreation.blend",
+      "sha256": "cbd4a9227cd2ebe830556c1419fe8b61cf07d99c41c191d5c350c20d847e0d0a"
+    },
+    {
+      "file": "START_HER.md",
+      "sha256": "1e5e88b0a0c1fd92fcd5ab22cb55dd938eb44fabd6dc64e15b8e5eb7a5765fd7"
+    },
+    {
+      "file": "build_report.json",
+      "sha256": "4315e59fa81febd1afa2a31a6e36662a010cbcc1e6011cb2ce6b840aac1aa492"
+    },
+    {
+      "file": "verification.json",
+      "sha256": "e25ec364b369728d47fcd392f2142deeaf8f57426fe66f1ca82452d3ee1b582c"
+    },
+    {
+      "file": "render_final_report.json",
+      "sha256": "90fe511444044428042c57586c5948f9e4bb5320ce58149583aee28ac945fe28"
+    },
+    {
+      "file": "scripts/build_scene.py",
+      "sha256": "11ca10149cfcd57719d6be93a99fddca55513ca4b715aaeca9f4694703949411"
+    },
+    {
+      "file": "scripts/materials.py",
+      "sha256": "1793bb48e02747f08637d38f35f6427a7d0fb35d5a90c6dab8f4dc0e71b532f7"
+    },
+    {
+      "file": "scripts/fetch_materials.py",
+      "sha256": "acdbd4e3899ba3f693f7561e497a45c5e6bbfd694382f780394840a7ab20ffd4"
+    },
+    {
+      "file": "scripts/geometry.py",
+      "sha256": "21426141925e21761d231473a872571bdee8e3146eec451b79b193f70f1e4026"
+    },
+    {
+      "file": "scripts/architecture.py",
+      "sha256": "0d67987c47a8d8dea29903f15913bb350bde0957f0a64a564f31cb47f55d6298"
+    },
+    {
+      "file": "scripts/props.py",
+      "sha256": "608e22f3aa8a64f9cce992e2e47860765e9e92e17531ea177bcafb971f78e394"
+    },
+    {
+      "file": "scripts/render_views.py",
+      "sha256": "ef5a501280f0312548021a934c820c21b657afc2d6b68dd601d89cbb247c8f6b"
+    },
+    {
+      "file": "scripts/landscape.py",
+      "sha256": "4340b96113f7feee785d8902aec9e2091c0c978216b6ebecbb8bd464733b353f"
+    },
+    {
+      "file": "scripts/verify_scene.py",
+      "sha256": "ee01be1f00e494c674b352acf96eb8933409f4c4812b6180d7fd87dd4911dd18"
+    },
+    {
+      "file": "reference/SOURCES.json",
+      "sha256": "bfec08b5df057ccbc4811d190b5623f8902d0382092e167d344efd43eec84f9c"
+    },
+    {
+      "file": "textures/SOURCES.json",
+      "sha256": "58e9188e5dc41ccd07900a42287d9265300e2267770c5db278cb0059c05aca9c"
+    }
+  ]
+}

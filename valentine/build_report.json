@@ -1,0 +1,43 @@
+{
+  "blender": "5.1.2",
+  "building_count": 18,
+  "objects": 483,
+  "mesh_objects": 452,
+  "materials": 47,
+  "mesh_triangles_before_modifiers": 2201790,
+  "packed_images": 49,
+  "render_device": "GPU",
+  "devices": [
+    {
+      "name": "Apple M5",
+      "type": "CPU",
+      "enabled": false
+    },
+    {
+      "name": "Apple M5 (GPU - 10 cores)",
+      "type": "METAL",
+      "enabled": true
+    }
+  ],
+  "arthur_source_sha256": "b80486c25c27c21789a188c1e0e544e8c709b8dba42b8aacc48312c6efe5c005",
+  "arthur_pose": [
+    {
+      "bone": "bone0154_SKEL_L_UpperArm",
+      "intended_direction": [
+        0.21455247700214386,
+        -0.053638119250535965,
+        -0.975238561630249
+      ]
+    },
+    {
+      "bone": "bone0280_SKEL_R_UpperArm",
+      "intended_direction": [
+        -0.21455247700214386,
+        -0.053638119250535965,
+        -0.975238561630249
+      ]
+    }
+  ],
+  "build_seconds": 6.9,
+  "reference_fidelity": "Reference-led landmark facades; inferred dimensions, back walls, peripheral layout and prop placement."
+}

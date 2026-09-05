@@ -1,0 +1,35 @@
+{
+  "architecture": [
+    {
+      "url": "https://guides4gamers.com/red-dead-redemption-2/quests/americans-at-rest/",
+      "role": "Original game facade capture: Smithfields false front and storefront bays"
+    },
+    {
+      "url": "https://guides4gamers.com/red-dead-redemption-2/quests/a-quiet-time/",
+      "role": "Original game approach capture: neighboring Worths and Keanes framing"
+    },
+    {
+      "url": "https://dhanasekaran.artstation.com/projects/w0WP56",
+      "role": "Original Rockstar artist portfolio: Saints Hotel exterior"
+    },
+    {
+      "url": "https://halfcents.ca/work/rdr2/",
+      "role": "Original game main street capture"
+    }
+  ],
+  "workflow": [
+    {
+      "url": "https://praveenraj2.artstation.com/projects/6LPZ4x",
+      "role": "Modular Blender workflow reference; not architectural authority"
+    }
+  ],
+  "scope": "Reference-led main street facades. Layout dimensions, unseen elevations, peripheral buildings, props and lighting are artistic interpretations, not a survey-accurate copy.",
+  "local_sources": [
+    {
+      "path": "../artur/source/ArthurMorgan.glb",
+      "role": "User-provided Arthur model; not redistributed publicly. Provenance not provided."
+    }
+  ],
+  "materials": "Poly Haven CC0 textures, downloaded with verified source MD5 and size. See textures/SOURCES.json.",
+  "unused_asset": "The supplied generic saloon is retained intact in ../saloon_with_textures.glb and was not substituted for Smithfields."
+}

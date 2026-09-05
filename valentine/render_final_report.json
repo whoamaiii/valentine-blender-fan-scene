@@ -1,0 +1,57 @@
+[
+  {
+    "file": "01_Smithfields_Main_Street.png",
+    "camera": "01 / Smithfield hero",
+    "seconds": 31.41,
+    "samples": 112,
+    "size": [
+      2560,
+      1600
+    ],
+    "device": "GPU"
+  },
+  {
+    "file": "02_Along_Main_Street.png",
+    "camera": "02 / Along the main street",
+    "seconds": 26.1,
+    "samples": 112,
+    "size": [
+      2560,
+      1600
+    ],
+    "device": "GPU"
+  },
+  {
+    "file": "03_Saints_Hotel_and_Bank.png",
+    "camera": "03 / Saints Hotel and bank",
+    "seconds": 31.83,
+    "samples": 112,
+    "size": [
+      2560,
+      1600
+    ],
+    "device": "GPU"
+  },
+  {
+    "file": "04_Town_Overview.png",
+    "camera": "04 / Town overview",
+    "seconds": 39.99,
+    "samples": 112,
+    "size": [
+      2560,
+      1600
+    ],
+    "device": "GPU"
+  },
+  {
+    "file": "05_Arthur_at_Smithfields.png",
+    "camera": "05 / Saloon entrance and Arthur",
+    "seconds": 35.19,
+    "samples": 112,
+    "size": [
+      2560,
+      1600
+    ],
+    "device": "GPU"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "blender": "5.1.2",
+  "scenes": {
+    "Arthur asset review": {
+      "meshes": 21,
+      "triangles": 57795,
+      "bones": 962
+    },
+    "Saloon asset review": {
+      "meshes": 15,
+      "triangles": 6010,
+      "bones": 0
+    }
+  },
+  "packed_texture_images": 78,
+  "source_files_unchanged": true,
+  "previews": {
+    "saloon_a.png": [
+      900,
+      700
+    ],
+    "saloon_b.png": [
+      900,
+      700
+    ],
+    "arthur_a.png": [
+      900,
+      700
+    ]
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "blend": "Valentine_Fan_Recreation.blend",
+  "blender": "5.1.2",
+  "objects": 483,
+  "unique_meshes": 164,
+  "packed_image_count": 49,
+  "building_count": 18,
+  "camera_rays": [
+    {
+      "camera": "01 / Smithfield hero",
+      "center_hit": "Smithfield's Saloon / siding and joinery",
+      "distance": 25.567
+    },
+    {
+      "camera": "02 / Along the main street",
+      "center_hit": "Keane's / rooms and construction / old timber and exposed new framing",
+      "distance": 58.328
+    },
+    {
+      "camera": "03 / Saints Hotel and bank",
+      "center_hit": "Saints Hotel / siding and joinery",
+      "distance": 25.73
+    },
+    {
+      "camera": "04 / Town overview",
+      "center_hit": "Smithfield's Saloon / siding and joinery",
+      "distance": 70.312
+    },
+    {
+      "camera": "05 / Saloon entrance and Arthur",
+      "center_hit": "Smithfield's Saloon / siding and joinery",
+      "distance": 15.394
+    }
+  ],
+  "camera_markers": [
+    {
+      "frame": 1,
+      "camera": "01 / Smithfield hero",
+      "matches": true
+    },
+    {
+      "frame": 2,
+      "camera": "02 / Along the main street",
+      "matches": true
+    },
+    {
+      "frame": 3,
+      "camera": "03 / Saints Hotel and bank",
+      "matches": true
+    },
+    {
+      "frame": 4,
+      "camera": "04 / Town overview",
+      "matches": true
+    },
+    {
+      "frame": 5,
+      "camera": "05 / Saloon entrance and Arthur",
+      "matches": true
+    }
+  ],
+  "max_puddle_edge_gap_m": -0.0018380321562290192,
+  "arthur_bounds": {
+    "min": [
+      -5.230401039123535,
+      -7.888162612915039,
+      -0.013432502746582031
+    ],
+    "max": [
+      -4.581338405609131,
+      -7.371561527252197,
+      1.926264762878418
+    ]
+  },
+  "source_unchanged": true,
+  "errors": []
+}

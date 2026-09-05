@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "reason": "Exact byte split of the older 111718661-byte review scene to keep every Git blob below GitHub ordinary Git limits without metered storage. Main scene opens directly.",
+  "files": [
+    {
+      "path": "preproduction/Asset_Review.blend",
+      "bytes": 111718661,
+      "sha256": "22e70789130d43d26ad32875581e298cbb3705e45a7cbddbc34a1261fa953768",
+      "parts": [
+        {
+          "path": "preproduction/archive/Asset_Review.blend.part01",
+          "bytes": 83886080,
+          "sha256": "500dab63b96261120396c555565df755b7ea387171a82ae681c2c3910dd11c58"
+        },
+        {
+          "path": "preproduction/archive/Asset_Review.blend.part02",
+          "bytes": 27832581,
+          "sha256": "c3416ddd61de6c345934ddd3bb650b642658989055f3ce740948d5a02729dfab"
+        }
+      ]
+    }
+  ]
+}

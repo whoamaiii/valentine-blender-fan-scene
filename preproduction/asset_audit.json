@@ -1,0 +1,118 @@
+{
+  "blender_version": "5.1.2",
+  "purpose": "Asset inspection only; not Valentine reconstruction",
+  "assets": [
+    {
+      "source": "saloon_with_textures.glb",
+      "sha256_before": "d6eda961cca2bb3250a4f0465bfc4f8088b79dc270174b9636b578459d7748b8",
+      "bytes": 91348244,
+      "source_metadata": {
+        "extras": {
+          "author": "gallacs (https://sketchfab.com/gallacs)",
+          "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+          "source": "https://sketchfab.com/3d-models/saloon-with-textures-dcca8bb7ca8740299d81f9b384d2e709",
+          "title": "Saloon with textures"
+        },
+        "generator": "Sketchfab-12.68.0",
+        "version": "2.0"
+      },
+      "objects": 32,
+      "meshes": 15,
+      "triangles": 6010,
+      "importer_helper_meshes": [],
+      "materials": 15,
+      "images": 40,
+      "normal_mapped_materials": 15,
+      "roughness_metallic_mapped_materials": 15,
+      "armatures": 0,
+      "bones": 0,
+      "animations_in_source": 0,
+      "original_import_bounds": {
+        "min": [
+          -5.886573791503906,
+          -5.435109615325928,
+          -4.915648937225342
+        ],
+        "max": [
+          5.886573791503906,
+          5.435109615325928,
+          4.915648937225342
+        ],
+        "size": [
+          11.773147583007812,
+          10.870219230651855,
+          9.831297874450684
+        ]
+      },
+      "meshes_without_uvs": [],
+      "images_without_pixels": [],
+      "texture_sizes": {
+        "2048x2048": 40
+      },
+      "renders": [
+        "saloon_a.png",
+        "saloon_b.png"
+      ],
+      "sha256_after": "d6eda961cca2bb3250a4f0465bfc4f8088b79dc270174b9636b578459d7748b8",
+      "source_unchanged": true
+    },
+    {
+      "source": "artur/source/ArthurMorgan.glb",
+      "sha256_before": "b80486c25c27c21789a188c1e0e544e8c709b8dba42b8aacc48312c6efe5c005",
+      "bytes": 25779004,
+      "source_metadata": {
+        "generator": "Khronos glTF Blender I/O v5.1.20",
+        "version": "2.0"
+      },
+      "objects": 23,
+      "meshes": 21,
+      "triangles": 57795,
+      "importer_helper_meshes": [
+        "Icosphere"
+      ],
+      "materials": 19,
+      "images": 38,
+      "normal_mapped_materials": 19,
+      "roughness_metallic_mapped_materials": 0,
+      "armatures": 1,
+      "bones": 962,
+      "animations_in_source": 0,
+      "original_import_bounds": {
+        "min": [
+          -0.6446159482002258,
+          -0.2769947052001953,
+          -1.0031744241714478
+        ],
+        "max": [
+          0.6445327997207642,
+          0.20239320397377014,
+          0.9365227818489075
+        ],
+        "size": [
+          1.2891488075256348,
+          0.47938790917396545,
+          1.939697265625
+        ]
+      },
+      "meshes_without_uvs": [],
+      "images_without_pixels": [],
+      "texture_sizes": {
+        "1024x512": 2,
+        "512x512": 18,
+        "1024x1024": 7,
+        "256x256": 2,
+        "4x4": 1,
+        "128x128": 1,
+        "2048x1024": 2,
+        "128x512": 2,
+        "512x256": 2,
+        "2048x2048": 1
+      },
+      "renders": [
+        "arthur_a.png"
+      ],
+      "sha256_after": "b80486c25c27c21789a188c1e0e544e8c709b8dba42b8aacc48312c6efe5c005",
+      "source_unchanged": true
+    }
+  ]
+}

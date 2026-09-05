@@ -1,0 +1,8 @@
+# Regenerable local clutter
+.DS_Store
+__pycache__/
+*.py[cod]
+*.blend[0-9]*
+*.log
+# Restored on demand; all original bytes are preserved in preproduction/archive/.
+/preproduction/Asset_Review.blend

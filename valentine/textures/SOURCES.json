@@ -1,0 +1,134 @@
+[
+  {
+    "asset": "rough_wood",
+    "channel": "Diffuse",
+    "file": "rough_wood_Diffuse.jpg",
+    "source": "https://polyhaven.com/a/rough_wood",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 2223327,
+    "md5": "f5f9c55696f047ceaa49dc97c5aa5526",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_wood/rough_wood_diff_2k.jpg"
+  },
+  {
+    "asset": "rough_wood",
+    "channel": "nor_gl",
+    "file": "rough_wood_nor_gl.jpg",
+    "source": "https://polyhaven.com/a/rough_wood",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 2520021,
+    "md5": "62594f2d00eb246581b9d4fde30209f1",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_wood/rough_wood_nor_gl_2k.jpg"
+  },
+  {
+    "asset": "rough_wood",
+    "channel": "Rough",
+    "file": "rough_wood_Rough.jpg",
+    "source": "https://polyhaven.com/a/rough_wood",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 810338,
+    "md5": "832d6d549a8e76c16b9af2586f429d6c",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_wood/rough_wood_rough_2k.jpg"
+  },
+  {
+    "asset": "rough_wood",
+    "channel": "Displacement",
+    "file": "rough_wood_Displacement.jpg",
+    "source": "https://polyhaven.com/a/rough_wood",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 418227,
+    "md5": "4e04c41245146e21ca500ff72eac74d9",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_wood/rough_wood_disp_2k.jpg"
+  },
+  {
+    "asset": "brown_mud",
+    "channel": "Diffuse",
+    "file": "brown_mud_Diffuse.jpg",
+    "source": "https://polyhaven.com/a/brown_mud",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 2093509,
+    "md5": "d0c4ee4434b871483e28ad9caecdc54c",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud/brown_mud_diff_2k.jpg"
+  },
+  {
+    "asset": "brown_mud",
+    "channel": "nor_gl",
+    "file": "brown_mud_nor_gl.jpg",
+    "source": "https://polyhaven.com/a/brown_mud",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 3073051,
+    "md5": "8aae228fc929498090cd61613533828e",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud/brown_mud_nor_gl_2k.jpg"
+  },
+  {
+    "asset": "brown_mud",
+    "channel": "Rough",
+    "file": "brown_mud_Rough.jpg",
+    "source": "https://polyhaven.com/a/brown_mud",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 1425213,
+    "md5": "21ecf37d5f307626d7b3fee3af4d9d08",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud/brown_mud_rough_2k.jpg"
+  },
+  {
+    "asset": "brown_mud",
+    "channel": "Displacement",
+    "file": "brown_mud_Displacement.jpg",
+    "source": "https://polyhaven.com/a/brown_mud",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 656319,
+    "md5": "26b697b6d04429978ce27171f27fdc15",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/brown_mud/brown_mud_disp_2k.jpg"
+  },
+  {
+    "asset": "mud_forest",
+    "channel": "Diffuse",
+    "file": "mud_forest_Diffuse.jpg",
+    "source": "https://polyhaven.com/a/mud_forest",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 3683329,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mud_forest/mud_forest_diff_2k.jpg",
+    "md5": "e78c6eae192daae3d00a677a588d1739"
+  },
+  {
+    "asset": "mud_forest",
+    "channel": "nor_gl",
+    "file": "mud_forest_nor_gl.jpg",
+    "source": "https://polyhaven.com/a/mud_forest",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 5909919,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mud_forest/mud_forest_nor_gl_2k.jpg",
+    "md5": "17635ab324ff50542465d7a4284502e3"
+  },
+  {
+    "asset": "mud_forest",
+    "channel": "Rough",
+    "file": "mud_forest_Rough.jpg",
+    "source": "https://polyhaven.com/a/mud_forest",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 1106194,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mud_forest/mud_forest_rough_2k.jpg",
+    "md5": "f7feab5e66a7eabb63116bad875fc4c5"
+  },
+  {
+    "asset": "mud_forest",
+    "channel": "Displacement",
+    "file": "mud_forest_Displacement.jpg",
+    "source": "https://polyhaven.com/a/mud_forest",
+    "license": "CC0",
+    "resolution": "2k",
+    "size": 1623075,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mud_forest/mud_forest_disp_2k.jpg",
+    "md5": "b90acf7295a2de413339fff7e34cbaf9"
+  }
+]

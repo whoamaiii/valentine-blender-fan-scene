@@ -1,0 +1,437 @@
+{
+  "created_utc": "2026-09-05T15:42:33.527626+00:00",
+  "files": [
+    {
+      "path": "artur/source/ArthurMorgan.glb",
+      "bytes": 25779004,
+      "sha256": "b80486c25c27c21789a188c1e0e544e8c709b8dba42b8aacc48312c6efe5c005"
+    },
+    {
+      "path": "artur/textures/Arthur_Boot_Ab_27.png",
+      "bytes": 506187,
+      "sha256": "e95a0e3066fc936d8a4613272f7f1573262eea1036055fdbbeb9781d6950bd2d"
+    },
+    {
+      "path": "artur/textures/Arthur_Boot_Nm_26.png",
+      "bytes": 474504,
+      "sha256": "a03e784e82bfa47a42c1ac336c96c24b82cc578c0890433a82696a79ba9a0784"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyebrows_Ab_19.png",
+      "bytes": 154687,
+      "sha256": "971f69640f16c8e4342f4634afb893d7e5e183770d4405440658bea59e09fad6"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyebrows_Nm_18.png",
+      "bytes": 91509,
+      "sha256": "32425757d0ceea06bfdc713c0983959cdd93ccd2d0407c4ff958e4f036377be2"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyes_Ab_17.png",
+      "bytes": 97261,
+      "sha256": "93c1b232729cc5ad35887245489a63f010bc54fb79b27f00bc1af7559da4eff4"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyes_Cap_Ab_9.png",
+      "bytes": 5382,
+      "sha256": "3e5e41bdd7187213dd046b0d75ba8b57b90b7984bef7019d7a281726c32a1d2b"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyes_Cap_Nm_8.png",
+      "bytes": 82,
+      "sha256": "8d8eec9703b5bad11a71b968c67a56dfacd1a3180e345af88a5e761583f10794"
+    },
+    {
+      "path": "artur/textures/Arthur_Eyes_Nm_16.png",
+      "bytes": 453475,
+      "sha256": "20b55bf1fc6946170d60ef56e8438d70c0eaa944f69fde9af1ebfeb5965e56bc"
+    },
+    {
+      "path": "artur/textures/Arthur_Hair_Alb_7.png",
+      "bytes": 1578003,
+      "sha256": "932a9d032a7d9e52341975a20b2fcc0d126d2d6b3e97012c20f40ab999fabd92"
+    },
+    {
+      "path": "artur/textures/Arthur_Hair_N2_6.png",
+      "bytes": 1134609,
+      "sha256": "a22620b5c89974ce03f1611638719a0fc62cbc905b352d18d6976b8b7fc14087"
+    },
+    {
+      "path": "artur/textures/Arthur_Hat_Ab_5.png",
+      "bytes": 257429,
+      "sha256": "db2e643944c8fe4acf4d4adc36aa2c265b1c0b50fd7a93e4400c4d68c9a27ab1"
+    },
+    {
+      "path": "artur/textures/Arthur_Hat_Nm_4.png",
+      "bytes": 251804,
+      "sha256": "952c9d3aa2208045227d049e49b2bdf7380fce116f52b15ce4f9fb702acb405b"
+    },
+    {
+      "path": "artur/textures/Arthur_Head_Ab_13.png",
+      "bytes": 4009847,
+      "sha256": "bd56b1d79a2d2f9cc5a56e5d2159cad7f9b0331b8eb5e7d494230c9264c8e88d"
+    },
+    {
+      "path": "artur/textures/Arthur_Head_Nm_12.png",
+      "bytes": 928027,
+      "sha256": "f001722ae3cccbac1c7ffec7a1549de6036c65b1f7942274eb60765933ed2ccc"
+    },
+    {
+      "path": "artur/textures/Arthur_Holster_Belt_Ab_29.png",
+      "bytes": 304760,
+      "sha256": "eecbc73983b35e1dbe62731f4f7390252f37c68d9f39c886764e3c6e6c7ba273"
+    },
+    {
+      "path": "artur/textures/Arthur_Holster_Belt_Nm_28.png",
+      "bytes": 257343,
+      "sha256": "5266d16534e0701b63383f88b97e6cb3d86399aaba099f38b98fefeb26e53a85"
+    },
+    {
+      "path": "artur/textures/Arthur_Holster_Cup_Ab_31.png",
+      "bytes": 520849,
+      "sha256": "20667c7f71f5fae053f7d9a38be74b1cf5209991c90511047249a6626832f667"
+    },
+    {
+      "path": "artur/textures/Arthur_Holster_Cup_Nm_30.png",
+      "bytes": 222111,
+      "sha256": "2c0c8410bb7527c1068408ba314d41c81f160316d92489fee9b11c8a4027fb23"
+    },
+    {
+      "path": "artur/textures/Arthur_Knife_Holster_Ab_33.png",
+      "bytes": 77311,
+      "sha256": "a48e0d7b6a1ee103becd2e3ac74272301ff61ddc4a5731545ee2581013246fcd"
+    },
+    {
+      "path": "artur/textures/Arthur_Knife_Holster_Nm_32.png",
+      "bytes": 61857,
+      "sha256": "c5bbfd5038352399e9e91fabfc01cbd64bea27d05ac9a5433af7e59f8bf7fac3"
+    },
+    {
+      "path": "artur/textures/Arthur_Nude_Upper_Ab_11.png",
+      "bytes": 1534557,
+      "sha256": "869bbd4da6a9f5a6516d937ea666f9b8c3d80f0d7af3d07b308b832216f1b236"
+    },
+    {
+      "path": "artur/textures/Arthur_Nude_Upper_Nm_10.png",
+      "bytes": 779268,
+      "sha256": "ae88d2387711201509a0300506727fcb0b6a71be03c7efdddd39be7517e6b752"
+    },
+    {
+      "path": "artur/textures/Arthur_Pants_Ab_23.png",
+      "bytes": 834510,
+      "sha256": "7db1423a20847e1bde64e6dd3aa58e5d4b0f3d20a8afc3f337bdba12af6c9198"
+    },
+    {
+      "path": "artur/textures/Arthur_Pants_Nm_22.png",
+      "bytes": 639288,
+      "sha256": "05c75b05a8ce6a0028a8ead8a4b867bcccf1141eac2bc2960ae46ce42262a25c"
+    },
+    {
+      "path": "artur/textures/Arthur_Satchel_Ab_1.png",
+      "bytes": 488113,
+      "sha256": "ebdc444539aa9bfcebe2df3cbaafcee911daaf9697a32595f7b28fc25d1018bd"
+    },
+    {
+      "path": "artur/textures/Arthur_Satchel_Nm_0.png",
+      "bytes": 253260,
+      "sha256": "1a4b6b8b9cdf34b6eb7b7d423cd36ed99cdde0dd2dbb6da5de48b98e9b031012"
+    },
+    {
+      "path": "artur/textures/Arthur_Satchel_Strap_Ab_3.png",
+      "bytes": 151710,
+      "sha256": "d75a66b2a71c11b216e20b64e30d4b7c27dfb5085c39378a62b1b693fa3357a7"
+    },
+    {
+      "path": "artur/textures/Arthur_Satchel_Strap_Nm_2.png",
+      "bytes": 63384,
+      "sha256": "3604fce56591346d711a852de4f9f2c1f7adfc3d489cb7a17654a616c6076ccd"
+    },
+    {
+      "path": "artur/textures/Arthur_Scarf_Ab_21.png",
+      "bytes": 96759,
+      "sha256": "5404889e32a5b1543cc513515403d05209db106cec75e248ed8478aceaa76f84"
+    },
+    {
+      "path": "artur/textures/Arthur_Scarf_Nm_20.png",
+      "bytes": 245933,
+      "sha256": "2e94db3cb75f3439d4e108c1552ad0f0f410c67bdb7907b4ce164ca3e276b207"
+    },
+    {
+      "path": "artur/textures/Arthur_Shirt_Ab_25.png",
+      "bytes": 953176,
+      "sha256": "595ddeea141d8678d85e4fe0b0f5cbf468bdb23d9d6a3292cc8f5a5ed0aacf97"
+    },
+    {
+      "path": "artur/textures/Arthur_Shirt_Nm_24.png",
+      "bytes": 1040549,
+      "sha256": "f91dab8d23fe27699c85d83add78fdab586520f2b83a67aded0670fbb5096053"
+    },
+    {
+      "path": "artur/textures/Arthur_Spurs_Ab_35.png",
+      "bytes": 297744,
+      "sha256": "7c836fa7a827806d4b7a97f030c0935ac4ec0c47cebd5a1c33631f18ee655882"
+    },
+    {
+      "path": "artur/textures/Arthur_Spurs_Nm_34.png",
+      "bytes": 211243,
+      "sha256": "d7c4c19c3ed8f9b0f4ea9d52c84d0bc681f9b4dcd03000d2794c85c3f00c7d30"
+    },
+    {
+      "path": "artur/textures/Arthur_Suspenders_Ab_37.png",
+      "bytes": 387866,
+      "sha256": "48b4d9ab99c3c51f6af0d474587050483e81e6eeaa0568e49bc7c45689d61613"
+    },
+    {
+      "path": "artur/textures/Arthur_Suspenders_Nm_36.png",
+      "bytes": 208482,
+      "sha256": "38fbf0ebd5d6918aef3bd01b2802897d3b43664d8677c359db41f73c150dcf0f"
+    },
+    {
+      "path": "artur/textures/Arthur_Teeth_Ab_15.png",
+      "bytes": 223493,
+      "sha256": "0f3461e3075a0b06887b57a67714fa31fc489c31ae729b5aa24dc569cc681c11"
+    },
+    {
+      "path": "artur/textures/Arthur_Teeth_Nm_14.png",
+      "bytes": 206788,
+      "sha256": "06d68eca8aa7a50b0b5f5f7aadb3f06abefed96c655581eddc89bad7a888a19b"
+    },
+    {
+      "path": "preproduction/Asset_Review.blend",
+      "bytes": 111718661,
+      "sha256": "22e70789130d43d26ad32875581e298cbb3705e45a7cbddbc34a1261fa953768"
+    },
+    {
+      "path": "preproduction/VALENTINE_PLAN.md",
+      "bytes": 8551,
+      "sha256": "56c073e79ddf9ea2492d2407c41c8768bdcfbcebc56119490b3da312f4373d87"
+    },
+    {
+      "path": "preproduction/arthur_a.png",
+      "bytes": 720662,
+      "sha256": "1e758b1f7d9bee2cc5c60d4bba014197e00bc99d665f11128f20dfa155dae1a7"
+    },
+    {
+      "path": "preproduction/asset_audit.json",
+      "bytes": 3255,
+      "sha256": "5aa1af5c06852ce2ee211889ef2d822673613988ecd91b45d07a17781711cfd4"
+    },
+    {
+      "path": "preproduction/inspect_assets.py",
+      "bytes": 6951,
+      "sha256": "74c6f20b02e012aacf169ff141b888bcc7988c6978b36c5a3d37f83bc965b5f9"
+    },
+    {
+      "path": "preproduction/reopen_verification.json",
+      "bytes": 497,
+      "sha256": "a8e98b8fb1d573c233afdcff68078fa6d681b90ee07df5eca4f692bcd41dba0e"
+    },
+    {
+      "path": "preproduction/saloon_a.png",
+      "bytes": 911881,
+      "sha256": "60728931b707d5b259279c28a2c58fd9dc6a984fcef427f3907994e03fef7f3a"
+    },
+    {
+      "path": "preproduction/saloon_b.png",
+      "bytes": 875953,
+      "sha256": "8aa9f3f4bcd10c6cf18c138f9748c15434b312fc268be0a19f8a29d559dee457"
+    },
+    {
+      "path": "saloon_with_textures.glb",
+      "bytes": 91348244,
+      "sha256": "d6eda961cca2bb3250a4f0465bfc4f8088b79dc270174b9636b578459d7748b8"
+    },
+    {
+      "path": "valentine/START_HER.md",
+      "bytes": 4721,
+      "sha256": "1e5e88b0a0c1fd92fcd5ab22cb55dd938eb44fabd6dc64e15b8e5eb7a5765fd7"
+    },
+    {
+      "path": "valentine/Valentine_Fan_Recreation.blend",
+      "bytes": 76077733,
+      "sha256": "cbd4a9227cd2ebe830556c1419fe8b61cf07d99c41c191d5c350c20d847e0d0a",
+      "preserved_at": "valentine/checkpoints/Valentine_before_archive_save.blend"
+    },
+    {
+      "path": "valentine/build_report.json",
+      "bytes": 1039,
+      "sha256": "4315e59fa81febd1afa2a31a6e36662a010cbcc1e6011cb2ce6b840aac1aa492"
+    },
+    {
+      "path": "valentine/checkpoints/Blender_Untitled_before_Valentine_2026-09-05_1711.blend",
+      "bytes": 97620,
+      "sha256": "7b6d12cf2e71c35d1f1bb3373b12bc13777466e560467bce1cef72d8e33f2e98"
+    },
+    {
+      "path": "valentine/checkpoints/Valentine_before_wall_fix.blend",
+      "bytes": 75163426,
+      "sha256": "123e32a5c02d985a214b5abf9ae4ea96e259cbe2a249b031eff34e5c82b6465e"
+    },
+    {
+      "path": "valentine/checkpoints/Valentine_first_build_v01.blend",
+      "bytes": 73746597,
+      "sha256": "6f49bc93ae7ceea415c043322c7bfdd0bc53157a67253bbecce6d0457f0b1a22"
+    },
+    {
+      "path": "valentine/checkpoints/Valentine_working_view_before_final.blend",
+      "bytes": 74570645,
+      "sha256": "0a04641e0b473d644d6e96c5e85828c4d073f7fa883fbd9c899fe51f9bd3a186"
+    },
+    {
+      "path": "valentine/delivery_manifest.json",
+      "bytes": 5480,
+      "sha256": "de95c3387dbf30246f679583603be830d16bc230b2baa263d26d6f5b9bf75545"
+    },
+    {
+      "path": "valentine/reference/SOURCES.json",
+      "bytes": 1477,
+      "sha256": "bfec08b5df057ccbc4811d190b5623f8902d0382092e167d344efd43eec84f9c"
+    },
+    {
+      "path": "valentine/render_final_report.json",
+      "bytes": 998,
+      "sha256": "90fe511444044428042c57586c5948f9e4bb5320ce58149583aee28ac945fe28"
+    },
+    {
+      "path": "valentine/renders/01_Smithfields_Main_Street.png",
+      "bytes": 6122450,
+      "sha256": "07864fad1d53feca8325e942f9cd275c854659a5ea53e2209eb3c56c1a4fb457"
+    },
+    {
+      "path": "valentine/renders/02_Along_Main_Street.png",
+      "bytes": 5946269,
+      "sha256": "1614c0a67dd2e4b1faca9e97992087af79f277a69c725162a73c93d5bfb77cad"
+    },
+    {
+      "path": "valentine/renders/03_Saints_Hotel_and_Bank.png",
+      "bytes": 5750352,
+      "sha256": "f221520a8181169dc44adb3d5dded900d504f57a936f4b09213158bf345bba83"
+    },
+    {
+      "path": "valentine/renders/04_Town_Overview.png",
+      "bytes": 7434752,
+      "sha256": "f16112536028ab237f05f621f3fef88cab86fd519aba22bc36d24200955b6025"
+    },
+    {
+      "path": "valentine/renders/05_Arthur_at_Smithfields.png",
+      "bytes": 6310535,
+      "sha256": "1873065d1e0fe381436762b8d8f33c5cebb8d32b5f250dd13f952080bba31b60"
+    },
+    {
+      "path": "valentine/scripts/architecture.py",
+      "bytes": 14490,
+      "sha256": "0d67987c47a8d8dea29903f15913bb350bde0957f0a64a564f31cb47f55d6298"
+    },
+    {
+      "path": "valentine/scripts/build_scene.py",
+      "bytes": 15057,
+      "sha256": "11ca10149cfcd57719d6be93a99fddca55513ca4b715aaeca9f4694703949411",
+      "preserved_at": "preproduction/archive/build_scene_before_portable_paths.py"
+    },
+    {
+      "path": "valentine/scripts/fetch_materials.py",
+      "bytes": 1762,
+      "sha256": "acdbd4e3899ba3f693f7561e497a45c5e6bbfd694382f780394840a7ab20ffd4"
+    },
+    {
+      "path": "valentine/scripts/geometry.py",
+      "bytes": 8049,
+      "sha256": "21426141925e21761d231473a872571bdee8e3146eec451b79b193f70f1e4026"
+    },
+    {
+      "path": "valentine/scripts/landscape.py",
+      "bytes": 9440,
+      "sha256": "4340b96113f7feee785d8902aec9e2091c0c978216b6ebecbb8bd464733b353f"
+    },
+    {
+      "path": "valentine/scripts/materials.py",
+      "bytes": 10559,
+      "sha256": "1793bb48e02747f08637d38f35f6427a7d0fb35d5a90c6dab8f4dc0e71b532f7"
+    },
+    {
+      "path": "valentine/scripts/props.py",
+      "bytes": 9194,
+      "sha256": "608e22f3aa8a64f9cce992e2e47860765e9e92e17531ea177bcafb971f78e394"
+    },
+    {
+      "path": "valentine/scripts/render_views.py",
+      "bytes": 2151,
+      "sha256": "ef5a501280f0312548021a934c820c21b657afc2d6b68dd601d89cbb247c8f6b"
+    },
+    {
+      "path": "valentine/scripts/verify_scene.py",
+      "bytes": 4014,
+      "sha256": "ee01be1f00e494c674b352acf96eb8933409f4c4812b6180d7fd87dd4911dd18"
+    },
+    {
+      "path": "valentine/textures/SOURCES.json",
+      "bytes": 4429,
+      "sha256": "58e9188e5dc41ccd07900a42287d9265300e2267770c5db278cb0059c05aca9c"
+    },
+    {
+      "path": "valentine/textures/brown_mud_Diffuse.jpg",
+      "bytes": 2093509,
+      "sha256": "726a0f5222fdf8b2bcdbec56fee8ea55150c217eab35a893ad5831f28cee3a5f"
+    },
+    {
+      "path": "valentine/textures/brown_mud_Displacement.jpg",
+      "bytes": 656319,
+      "sha256": "cd42cf5e42a77ce272c4d5a1ec32fc67008854664c072f1206a6a4946d0e754d"
+    },
+    {
+      "path": "valentine/textures/brown_mud_Rough.jpg",
+      "bytes": 1425213,
+      "sha256": "7f37ed5a6d6d6206ea263df37393715883b491a2dff1c8cfa67239922db29ee4"
+    },
+    {
+      "path": "valentine/textures/brown_mud_nor_gl.jpg",
+      "bytes": 3073051,
+      "sha256": "a3df5f6f7493a1762626c6d0d47872d969744a49931de50fe79f71a5eae8f857"
+    },
+    {
+      "path": "valentine/textures/mud_forest_Diffuse.jpg",
+      "bytes": 3683329,
+      "sha256": "6726cf9ad9b1be9bf284c629dd95d732527b18fc92be06ae9093a96a68f77628"
+    },
+    {
+      "path": "valentine/textures/mud_forest_Displacement.jpg",
+      "bytes": 1623075,
+      "sha256": "8f53b64ec43678c7a281529c24c91b53547d9a954c5a2d23919bc10a1da418fe"
+    },
+    {
+      "path": "valentine/textures/mud_forest_Rough.jpg",
+      "bytes": 1106194,
+      "sha256": "53245bf1e48255c38bb84ad033fb1b33da317d8507c513afd3f7f4dddcfbedaf"
+    },
+    {
+      "path": "valentine/textures/mud_forest_nor_gl.jpg",
+      "bytes": 5909919,
+      "sha256": "8d0ad08c4d0df9aabd2fc42ef34e0d34010d9a63eb472eed214be6fad5bc2d4e"
+    },
+    {
+      "path": "valentine/textures/rough_wood_Diffuse.jpg",
+      "bytes": 2223327,
+      "sha256": "0bd2b3195db9b54d55aa0f842801220ec5e1d389f5fc1e670b378bdaca3f8e7b"
+    },
+    {
+      "path": "valentine/textures/rough_wood_Displacement.jpg",
+      "bytes": 418227,
+      "sha256": "f41a9053cd5404e439edc6b2f901b322e9d6e43c1d775abfc7ae70439a96f522"
+    },
+    {
+      "path": "valentine/textures/rough_wood_Rough.jpg",
+      "bytes": 810338,
+      "sha256": "38343cb062e7fadcda513ded0b17271c9d7f1da56765d03508dc84c8ff1bd475"
+    },
+    {
+      "path": "valentine/textures/rough_wood_nor_gl.jpg",
+      "bytes": 2520021,
+      "sha256": "b75cb1e989407e442c3255f3e05ea8c40162c0e5dc2efc9ef2515fce61319194"
+    },
+    {
+      "path": "valentine/verification.json",
+      "bytes": 1787,
+      "sha256": "e25ec364b369728d47fcd392f2142deeaf8f57426fe66f1ca82452d3ee1b582c"
+    }
+  ]
+}
