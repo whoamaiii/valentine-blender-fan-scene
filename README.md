@@ -28,7 +28,7 @@ Hovedscenen åpnes direkte etter kloning og har alle 49 teksturbilder pakket inn
 | `valentine/scripts/` | Kode for bygging, materialer, rendring og kontroll |
 | `valentine/textures/` | Poly Haven-teksturer og kildeinformasjon |
 | `valentine/checkpoints/` | Tidligere arbeidsversjoner, inkludert versjonen før siste arkivlagring |
-| `artur/source/` | Urørt Arthur-modell og originale teksturer |
+| `artur/` | Urørt Arthur-modell i `source/` og originale bilder i `textures/` |
 | `saloon_with_textures.glb` | Urørt saloon-modell fra oppstarten |
 | `preproduction/` | Opprinnelig plan, modellkontroll og prøvebilder |
 
